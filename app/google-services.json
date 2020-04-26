@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "673895142366",
+    "firebase_url": "https://muktomon-64a19.firebaseio.com",
+    "project_id": "muktomon-64a19",
+    "storage_bucket": "muktomon-64a19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673895142366:android:6cfa3d48dc41162934834f",
+        "android_client_info": {
+          "package_name": "com.example.vmac.chatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673895142366-pvkrhtjmqhrilptn8cds6cbo57nguhss.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vmac.chatbot",
+            "certificate_hash": "ed1c93cbcc7b072f235626e4fa0fe8714acef7a5"
+          }
+        },
+        {
+          "client_id": "673895142366-3reossqiq5s9q4rvs4t2necqcps5gcqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9hnDoregrLfSx-r-HH4AhgI98n71lWiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673895142366-3reossqiq5s9q4rvs4t2necqcps5gcqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

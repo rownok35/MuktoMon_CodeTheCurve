@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FEB67D</color>
+    <color name="colorPrimaryDark">#FEB67D</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="Black">#000000</color>
+    <color name="body">#FEB67D</color>
+    <color name="bg_bubble_self">#62caa6</color>
+    <color name="bg_bubble_watbot">#ecf0f1</color>
+</resources>
